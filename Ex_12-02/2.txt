@@ -1,0 +1,11 @@
+Sequência para ir ao banco e sacar dinheiro
+
+1 - Localizar máquina de saque referente ao seu banco;
+2 - Pegar o cartão do banco;
+3 - Ir até ela;
+4 - Inserir cartão na máquina;
+5 - Se a máquina o painel exibir a mensagem: "coloque sua mão para a leitura da digital", coloque sua mão no local indicado;
+5 - Se não, utilize a senha;
+6 - Selecione a opção para conferir o dinheiro na conta;
+7 - Se a quantidade deseja para saque for igual a quantidade de dinheiro na conta, saque o dinheiro;
+8 - Se não, saque uma quantia menor;

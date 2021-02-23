@@ -1,0 +1,13 @@
+Sequência para ligar Carro
+
+1 - Conferir se a chave está com você;
+2 - Localizar o carro;
+3 - Ir em direção ao carro;
+4 - Pegar a chave;
+5 - Se o alarme estiver ligado, desligar o alarme;
+6 - Se a porta estiver travada e fechada, destravar a porta e abrir;
+7 - Entrar no carro;
+8 - Fechar a porta;
+9 - Colocar a chave no contato;
+10 - Conferir se o carro está em ponto Neutro, caso não esteja colocar ela no Neutro;
+11 - Girar a chave, colocar os pés no Pedal do Freio e da Embreagem e mover um pouco o volante.

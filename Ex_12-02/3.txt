@@ -1,0 +1,12 @@
+Sequência para trocar pneu do carro
+
+1 - Ir ao porta malas;
+2 - Abrir o porta malas;
+3 - Conferir se estão nele, o macaco, a chave de boca e o estepe;
+4 - Se todos estiverem no porta malas, pegar todos;
+5 - Usar o macaco para levantar a parte do carro que o pneu furado está;
+6 - Tirar o parafusos;
+7 - Trocar o pneu;
+8 - Apertar, mas não totalmente os parafusos;
+9 - Abaixar o macaco;
+10 - Terminar de apertar os parafusos.
